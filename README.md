@@ -20,5 +20,9 @@ Requirements
     Breakout game environment (e.g., OpenAI Gym)
     Reinforcement learning libraries (e.g., TensorFlow, PyTorch)
     
-    ![Uploading Screenshot 2023-05-30 at 18-45-31 (384) Reinforcement Learning in 3 Hours Full Course using Python - YouTube.png…]()
+    
+    
+    
+![Uploading Screenshot 2023-05-30 at 18-45-31 (384) Reinforcement Learning in 3 Hours Full Course using Python - YouTube.png…]()
+
 
