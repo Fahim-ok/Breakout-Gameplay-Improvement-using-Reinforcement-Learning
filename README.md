@@ -8,14 +8,17 @@ The project follows a reinforcement learning approach to train an AI agent to pl
 To improve the gameplay speed without sacrificing accuracy, the reinforcement learning algorithm is designed to optimize both factors simultaneously. By considering the rewards obtained and the desired speed, the AI agent learns to make efficient decisions, ensuring a fast-paced and engaging gaming experience.
 Key Features
 
-    Reinforcement learning: The project utilizes reinforcement learning techniques to train an AI agent.
-    Reward-based feedback: The agent receives rewards based on its performance, guiding its learning process.
-    Speed optimization: The algorithm is designed to enhance gameplay speed while maintaining high accuracy.
-    Trial-and-error learning: The AI agent learns through iterations of gameplay, continuously improving its strategies.
-    Engaging gameplay: The project aims to deliver an immersive and fast-paced gaming experience.
+   Reinforcement learning: The project utilizes reinforcement learning techniques to train an AI agent.
+   Reward-based feedback: The agent receives rewards based on its performance, guiding its learning process.
+   Speed optimization: The algorithm is designed to enhance gameplay speed while maintaining high accuracy.
+   Trial-and-error learning: The AI agent learns through iterations of gameplay, continuously improving its strategies.
+   Engaging gameplay: The project aims to deliver an immersive and fast-paced gaming experience.
 
 Requirements
 
     Python 3.x
     Breakout game environment (e.g., OpenAI Gym)
     Reinforcement learning libraries (e.g., TensorFlow, PyTorch)
+    
+    ![Uploading Screenshot 2023-05-30 at 18-45-31 (384) Reinforcement Learning in 3 Hours Full Course using Python - YouTube.png…]()
+
